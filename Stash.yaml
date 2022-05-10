@@ -20,6 +20,8 @@ payload:
   - DOMAIN-KEYWORD,helpshift
   - DOMAIN-KEYWORD,ingest.sentry.io
   - DOMAIN-SUFFIX,launchdarkly.com
+  - DOMAIN-SUFFIX,demdex.net
+  - DOMAIN-SUFFIX,everesttech.com
   - DOMAIN-SUFFIX,foreca.com
   - DOMAIN-SUFFIX,openweathermap.org
   - DOMAIN-SUFFIX,darksky.net
