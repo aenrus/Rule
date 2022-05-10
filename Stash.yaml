@@ -15,6 +15,7 @@ payload:
   - DOMAIN-KEYWORD,tdameritrade
   - DOMAIN-KEYWORD,schwab
   - DOMAIN-KEYWORD,hsbc
+  # East West Bank
   - DOMAIN-KEYWORD,eastwestbank
   - DOMAIN-KEYWORD,velobank
   - DOMAIN-KEYWORD,helpshift
@@ -22,6 +23,7 @@ payload:
   - DOMAIN-SUFFIX,launchdarkly.com
   - DOMAIN-SUFFIX,demdex.net
   - DOMAIN-SUFFIX,everesttech.com
+   # East West Bank
   - DOMAIN-SUFFIX,foreca.com
   - DOMAIN-SUFFIX,openweathermap.org
   - DOMAIN-SUFFIX,darksky.net
@@ -29,4 +31,3 @@ payload:
   - DOMAIN-SUFFIX,todayweather.co
   - DOMAIN-SUFFIX,weatherbit.io
   - DOMAIN-SUFFIX,investing.com
-  - DOMAIN-SUFFIX,flyertea.com
