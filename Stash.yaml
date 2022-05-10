@@ -23,7 +23,7 @@ payload:
   - DOMAIN-SUFFIX,launchdarkly.com
   - DOMAIN-SUFFIX,demdex.net
   - DOMAIN-SUFFIX,everesttech.com
-   # East West Bank
+  # East West Bank
   - DOMAIN-SUFFIX,foreca.com
   - DOMAIN-SUFFIX,openweathermap.org
   - DOMAIN-SUFFIX,darksky.net
