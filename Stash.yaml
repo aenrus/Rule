@@ -1,25 +1,26 @@
-- DOMAIN-KEYWORD,1password,DIRECT
-- DOMAIN-KEYWORD,webull,DIRECT
-- DOMAIN-KEYWORD,thinkorswim,DIRECT
-- DOMAIN-KEYWORD,nike,DIRECT
-- DOMAIN-KEYWORD,fututrade,DIRECT
-- DOMAIN-KEYWORD,moomoo,DIRECT
-- DOMAIN-KEYWORD,interactivebrokers,DIRECT
-- DOMAIN-KEYWORD,ibllc,DIRECT
-- DOMAIN-KEYWORD,ibkr,DIRECT
-- DOMAIN-KEYWORD,midomi,DIRECT
-- DOMAIN-KEYWORD,soundhound,DIRECT
-- DOMAIN-KEYWORD,moneywiz,DIRECT
-- DOMAIN-KEYWORD,clashroyale,DIRECT
-- DOMAIN-KEYWORD,tdameritrade,DIRECT
-- DOMAIN-KEYWORD,schwab,DIRECT
-- DOMAIN-KEYWORD,hsbc,DIRECT
-- DOMAIN-KEYWORD,eastwestbank,DIRECT
-- DOMAIN-SUFFIX,foreca.com,DIRECT
-- DOMAIN-SUFFIX,openweathermap.org,DIRECT
-- DOMAIN-SUFFIX,darksky.net,DIRECT
-- DOMAIN-SUFFIX,met.no,DIRECT
-- DOMAIN-SUFFIX,todayweather.co,DIRECT
-- DOMAIN-SUFFIX,weatherbit.io,DIRECT
-- DOMAIN-SUFFIX,investing.com,DIRECT
-- DOMAIN-SUFFIX,flyertea.com,DIRECT
+payload:
+  - DOMAIN-KEYWORD,1password
+  - DOMAIN-KEYWORD,webull
+  - DOMAIN-KEYWORD,thinkorswim
+  - DOMAIN-KEYWORD,nike
+  - DOMAIN-KEYWORD,fututrade
+  - DOMAIN-KEYWORD,moomoo
+  - DOMAIN-KEYWORD,interactivebrokers
+  - DOMAIN-KEYWORD,ibllc
+  - DOMAIN-KEYWORD,ibkr
+  - DOMAIN-KEYWORD,midomi
+  - DOMAIN-KEYWORD,soundhound
+  - DOMAIN-KEYWORD,moneywiz
+  - DOMAIN-KEYWORD,clashroyale
+  - DOMAIN-KEYWORD,tdameritrade
+  - DOMAIN-KEYWORD,schwab
+  - DOMAIN-KEYWORD,hsbc
+  - DOMAIN-KEYWORD,eastwestbank
+  - DOMAIN-SUFFIX,foreca.com
+  - DOMAIN-SUFFIX,openweathermap.org
+  - DOMAIN-SUFFIX,darksky.net
+  - DOMAIN-SUFFIX,met.no
+  - DOMAIN-SUFFIX,todayweather.co
+  - DOMAIN-SUFFIX,weatherbit.io
+  - DOMAIN-SUFFIX,investing.com
+  - DOMAIN-SUFFIX,flyertea.com
