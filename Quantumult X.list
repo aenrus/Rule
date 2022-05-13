@@ -1,1 +1,32 @@
-
+HOST-KEYWORD,1password,Star
+HOST-KEYWORD,w,Star
+HOST-KEYWORD,thinkorswim,Star
+HOST-KEYWORD,nike,Star
+HOST-KEYWORD,fututrade,Star
+HOST-KEYWORD,moomoo,Star
+HOST-KEYWORD,interactivebrokers,Star
+HOST-KEYWORD,ibllc,Star
+HOST-KEYWORD,ibkr,Star
+HOST-KEYWORD,midomi,Star
+HOST-KEYWORD,soundhound,Star
+HOST-KEYWORD,moneywiz,Star
+HOST-KEYWORD,clashroyale,Star
+HOST-KEYWORD,tdameritrade,Star
+HOST-KEYWORD,schwab,Star
+HOST-KEYWORD,hsbc,Star
+# East West Bank
+HOST-KEYWORD,eastwestbank,Star
+HOST-KEYWORD,velobank,Star
+HOST-KEYWORD,helpshift,Star
+HOST-SUFFIX,ingest.sentry.io,Star
+HOST-SUFFIX,launchdarkly.com,Star
+HOST-SUFFIX,demdex.net,Star
+HOST-SUFFIX,everesttech.com,Star
+# East West Bank
+HOST-SUFFIX,foreca.com,Star
+HOST-SUFFIX,openweathermap.org,Star
+HOST-SUFFIX,darksky.net,Star
+HOST-SUFFIX,met.no,Star
+HOST-SUFFIX,todayweather.co,Star
+HOST-SUFFIX,weatherbit.io,Star
+HOST-SUFFIX,investing.com,Star
