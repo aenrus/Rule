@@ -1,9 +1,7 @@
-HOST-KEYWORD,nike,Star
 HOST-KEYWORD,syncbits,Star
 HOST-KEYWORD,1password,Star
 HOST-KEYWORD,webull,Star
 HOST-KEYWORD,thinkorswim,Star
-HOST-KEYWORD,nike,Star
 HOST-KEYWORD,fututrade,Star
 HOST-KEYWORD,moomoo,Star
 HOST-KEYWORD,interactivebrokers,Star
@@ -32,3 +30,4 @@ HOST-SUFFIX,met.no,Star
 HOST-SUFFIX,todayweather.co,Star
 HOST-SUFFIX,weatherbit.io,Star
 HOST-SUFFIX,investing.com,Star
+HOST-SUFFIX,nike.com,Star
