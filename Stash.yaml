@@ -1,34 +1,40 @@
 payload:
-  - DOMAIN-KEYWORD,syncbits
-  - DOMAIN-KEYWORD,1password
-  - DOMAIN-KEYWORD,webull
-  - DOMAIN-KEYWORD,thinkorswim
-  - DOMAIN-KEYWORD,fututrade
-  - DOMAIN-KEYWORD,moomoo
-  - DOMAIN-KEYWORD,interactivebrokers
-  - DOMAIN-KEYWORD,ibllc
-  - DOMAIN-KEYWORD,ibkr
-  - DOMAIN-KEYWORD,midomi
-  - DOMAIN-KEYWORD,soundhound
-  - DOMAIN-KEYWORD,moneywiz
-  - DOMAIN-KEYWORD,clashroyale
-  - DOMAIN-KEYWORD,tdameritrade
-  - DOMAIN-KEYWORD,schwab
-  - DOMAIN-KEYWORD,hsbc
+  # MoneyWiz
+  - DOMAIN-KEYWORD, syncbits
+  - DOMAIN-KEYWORD, moneywiz
+  - DOMAIN-SUFFIX, wiz.money  
   # East West Bank
-  - DOMAIN-KEYWORD,eastwestbank
-  - DOMAIN-KEYWORD,velobank
-  - DOMAIN-KEYWORD,helpshift
-  - DOMAIN-SUFFIX,ingest.sentry.io
-  - DOMAIN-SUFFIX,launchdarkly.com
-  - DOMAIN-SUFFIX,demdex.net
-  - DOMAIN-SUFFIX,everesttech.com
-  # East West Bank
-  - DOMAIN-SUFFIX,foreca.com
-  - DOMAIN-SUFFIX,openweathermap.org
-  - DOMAIN-SUFFIX,darksky.net
-  - DOMAIN-SUFFIX,met.no
-  - DOMAIN-SUFFIX,todayweather.co
-  - DOMAIN-SUFFIX,weatherbit.io
-  - DOMAIN-SUFFIX,investing.com
-  - DOMAIN-SUFFIX,nike.com
+  - DOMAIN-KEYWORD, eastwestbank
+  - DOMAIN-KEYWORD, velobank
+  - DOMAIN-KEYWORD, helpshift
+  - DOMAIN-SUFFIX, ingest.sentry.io
+  - DOMAIN-SUFFIX, launchdarkly.com
+  - DOMAIN-SUFFIX, demdex.net
+  - DOMAIN-SUFFIX, everesttech.com
+  # Interactive Brokers
+  - DOMAIN-KEYWORD, interactivebrokers
+  - DOMAIN-KEYWORD, ibllc
+  - DOMAIN-KEYWORD, ibkr
+  # Moomoo
+  - DOMAIN-KEYWORD, fututrade
+  - DOMAIN-KEYWORD, moomoo
+  # Soundhound
+  - DOMAIN-KEYWORD, midomi
+  - DOMAIN-KEYWORD, soundhound  
+  
+  - DOMAIN-KEYWORD, 1password
+  - DOMAIN-KEYWORD, webull
+  - DOMAIN-KEYWORD, thinkorswim
+  - DOMAIN-KEYWORD, clashroyale
+  - DOMAIN-KEYWORD, tdameritrade
+  - DOMAIN-KEYWORD, schwab
+  - DOMAIN-KEYWORD, hsbc
+
+  - DOMAIN-SUFFIX, foreca.com
+  - DOMAIN-SUFFIX, openweathermap.org
+  - DOMAIN-SUFFIX, darksky.net
+  - DOMAIN-SUFFIX, met.no
+  - DOMAIN-SUFFIX, todayweather.co
+  - DOMAIN-SUFFIX, weatherbit.io
+  - DOMAIN-SUFFIX, investing.com
+  - DOMAIN-SUFFIX, nike.com
