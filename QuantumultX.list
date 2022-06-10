@@ -14,12 +14,12 @@ HOST-SUFFIX, everesttech.com, Star
 HOST-KEYWORD, interactivebrokers, Star
 HOST-KEYWORD, ibllc, Star
 HOST-KEYWORD, ibkr, Star
-# Soundhound
-HOST-KEYWORD, midomi, Star
-HOST-KEYWORD, soundhound, Star
 # Moomoo
 HOST-KEYWORD, fututrade, Star
 HOST-KEYWORD, moomoo, Star
+# Soundhound
+HOST-KEYWORD, midomi, Star
+HOST-KEYWORD, soundhound, Star
 
 HOST-KEYWORD, 1password, Star
 HOST-KEYWORD, webull, Star
