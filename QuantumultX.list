@@ -7,7 +7,6 @@ HOST-KEYWORD, eastwestbank, Star
 HOST-KEYWORD, velobank, Star
 HOST-KEYWORD, helpshift, Star
 HOST-SUFFIX, ingest.sentry.io, Star
-HOST-SUFFIX, launchdarkly.com, Star
 HOST-SUFFIX, demdex.net, Star
 HOST-SUFFIX, everesttech.com, Star
 # Interactive Brokers
@@ -37,3 +36,4 @@ HOST-SUFFIX, todayweather.co, Star
 HOST-SUFFIX, weatherbit.io, Star
 HOST-SUFFIX, investing.com, Star
 HOST-SUFFIX, nike.com, Star
+HOST-SUFFIX, launchdarkly.com, Star
