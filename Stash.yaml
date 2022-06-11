@@ -8,7 +8,6 @@ payload:
   - DOMAIN-KEYWORD, velobank
   - DOMAIN-KEYWORD, helpshift
   - DOMAIN-SUFFIX, ingest.sentry.io
-  - DOMAIN-SUFFIX, launchdarkly.com
   - DOMAIN-SUFFIX, demdex.net
   - DOMAIN-SUFFIX, everesttech.com
   # Interactive Brokers
@@ -38,3 +37,4 @@ payload:
   - DOMAIN-SUFFIX, weatherbit.io
   - DOMAIN-SUFFIX, investing.com
   - DOMAIN-SUFFIX, nike.com
+  - DOMAIN-SUFFIX, launchdarkly.com
