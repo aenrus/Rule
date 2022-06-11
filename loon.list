@@ -13,7 +13,7 @@ DOMAIN-SUFFIX, everesttech.com
 DOMAIN-KEYWORD, interactivebrokers
 DOMAIN-KEYWORD, ibllc
 DOMAIN-KEYWORD, ibkr
-# Moomoo
+# Futu
 DOMAIN-KEYWORD, fututrade
 DOMAIN-KEYWORD, moomoo
 # Soundhound
@@ -37,3 +37,4 @@ DOMAIN-SUFFIX, weatherbit.io
 DOMAIN-SUFFIX, investing.com
 DOMAIN-SUFFIX, nike.com
 DOMAIN-SUFFIX, launchdarkly.com
+DOMAIN-SUFFIX, shazam.com
