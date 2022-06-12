@@ -19,8 +19,10 @@ HOST-KEYWORD, moomoo, Star
 # Soundhound
 HOST-KEYWORD, midomi, Star
 HOST-KEYWORD, soundhound, Star
+# 1Password
+HOST-SUFFIX, 1password.com, Star
+HOST-SUFFIX, agilebits.com, Star
 
-HOST-KEYWORD, 1password, Star
 HOST-KEYWORD, webull, Star
 HOST-KEYWORD, thinkorswim, Star
 HOST-KEYWORD, clashroyale, Star
@@ -38,3 +40,4 @@ HOST-SUFFIX, investing.com, Star
 HOST-SUFFIX, nike.com, Star
 HOST-SUFFIX, launchdarkly.com, Star
 HOST-SUFFIX, shazam.com, Star
+HOST-SUFFIX, pocketcasts.com, Star
