@@ -19,8 +19,10 @@ DOMAIN-KEYWORD, moomoo
 # Soundhound
 DOMAIN-KEYWORD, midomi
 DOMAIN-KEYWORD, soundhound
+# 1Password
+DOMAIN-SUFFIX, 1password.com
+DOMAIN-SUFFIX, agilebits.com
 
-DOMAIN-KEYWORD, 1password
 DOMAIN-KEYWORD, webull
 DOMAIN-KEYWORD, thinkorswim
 DOMAIN-KEYWORD, clashroyale
@@ -38,3 +40,4 @@ DOMAIN-SUFFIX, investing.com
 DOMAIN-SUFFIX, nike.com
 DOMAIN-SUFFIX, launchdarkly.com
 DOMAIN-SUFFIX, shazam.com
+DOMAIN-SUFFIX, pocketcasts.com
