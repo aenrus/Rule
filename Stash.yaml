@@ -19,9 +19,11 @@ payload:
   - DOMAIN-KEYWORD, moomoo
   # Soundhound
   - DOMAIN-KEYWORD, midomi
-  - DOMAIN-KEYWORD, soundhound  
+  - DOMAIN-KEYWORD, soundhound
+  # 1Password
+  - DOMAIN-SUFFIX, 1password.com
+  - DOMAIN-SUFFIX, agilebits.com
   
-  - DOMAIN-KEYWORD, 1password
   - DOMAIN-KEYWORD, webull
   - DOMAIN-KEYWORD, thinkorswim
   - DOMAIN-KEYWORD, clashroyale
@@ -39,3 +41,4 @@ payload:
   - DOMAIN-SUFFIX, nike.com
   - DOMAIN-SUFFIX, launchdarkly.com
   - DOMAIN-SUFFIX, shazam.com
+  - DOMAIN-SUFFIX, pocketcasts.com
