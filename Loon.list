@@ -22,6 +22,14 @@ DOMAIN-KEYWORD, soundhound
 # 1Password
 DOMAIN-SUFFIX, 1password.com
 DOMAIN-SUFFIX, agilebits.com
+# Emby
+DOMAIN, emby.plusmedia.site
+DOMAIN, misty.ltd
+DOMAIN, cu.poloemby.xyz
+DOMAIN, py.embyplus.club
+DOMAIN, ha.jmsooo.com
+DOMAIN, ddnsjp.titams.xyz
+DOMAIN, emby.o9o.nl
 
 DOMAIN-KEYWORD, webull
 DOMAIN-KEYWORD, thinkorswim
@@ -40,11 +48,3 @@ DOMAIN-SUFFIX, investing.com
 DOMAIN-SUFFIX, nike.com
 DOMAIN-SUFFIX, launchdarkly.com
 DOMAIN-SUFFIX, shazam.com
-
-DOMAIN, emby.plusmedia.site
-DOMAIN, misty.ltd
-DOMAIN, cu.poloemby.xyz
-DOMAIN, py.embyplus.club
-DOMAIN, ha.jmsooo.com
-DOMAIN, ddnsjp.titams.xyz
-DOMAIN, emby.o9o.nl
