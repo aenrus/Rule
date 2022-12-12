@@ -25,15 +25,12 @@ HOST-SUFFIX, agilebits.com, Star
 # Emby
 HOST, emby.plusmedia.site, Star
 HOST, misty.ltd, Star
-HOST, cu.poloemby.xyz, Star
-HOST, py.embyplus.club, Star
-HOST, ha.jmsooo.com, Star
-HOST, cf.jmsooo.com, Star
-HOST, ddnsjp.titams.xyz, Star
-HOST, baremby.titams.xyz, Star
 HOST, emby.o9o.nl, Star
+HOST-SUFFIX, poloemby.xyz, Star
+HOST-SUFFIX, embyplus.club, Star
+HOST-SUFFIX, jmsooo.com, Star
+HOST-SUFFIX, titams.xyz, Star
 
-HOST-KEYWORD, webull, Star
 HOST-KEYWORD, thinkorswim, Star
 HOST-KEYWORD, clashroyale, Star
 HOST-KEYWORD, tdameritrade, Star
