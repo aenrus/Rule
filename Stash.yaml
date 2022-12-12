@@ -26,15 +26,12 @@ payload:
   # Emby
   - DOMAIN, emby.plusmedia.site
   - DOMAIN, misty.ltd
-  - DOMAIN, cu.poloemby.xyz
-  - DOMAIN, py.embyplus.club
-  - DOMAIN, ha.jmsooo.com
-  - DOMAIN, cf.jmsooo.com
-  - DOMAIN, ddnsjp.titams.xyz
-  - DOMAIN, baremby.titams.xyz
   - DOMAIN, emby.o9o.nl
+  - DOMAIN-SUFFIX, poloemby.xyz
+  - DOMAIN-SUFFIX, embyplus.club
+  - DOMAIN-SUFFIX, jmsooo.com
+  - DOMAIN-SUFFIX, titams.xyz
   
-  - DOMAIN-KEYWORD, webull
   - DOMAIN-KEYWORD, thinkorswim
   - DOMAIN-KEYWORD, clashroyale
   - DOMAIN-KEYWORD, tdameritrade
