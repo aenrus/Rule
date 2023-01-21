@@ -23,12 +23,11 @@ HOST-KEYWORD, soundhound, Star
 HOST-SUFFIX, 1password.com, Star
 HOST-SUFFIX, agilebits.com, Star
 # Emby
-HOST, emby.plusmedia.site, Star
 HOST, misty.ltd, Star
 HOST-SUFFIX, poloemby.xyz, Star
 HOST-SUFFIX, embyplus.club, Star
 HOST-SUFFIX, jmsooo.com, Star
-HOST-SUFFIX, gfwemby.org, Star
+HOST-SUFFIX, embymv.tk, Star
 
 HOST-KEYWORD, thinkorswim, Star
 HOST-KEYWORD, clashroyale, Star
