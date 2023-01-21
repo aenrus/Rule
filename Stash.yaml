@@ -24,12 +24,11 @@ payload:
   - DOMAIN-SUFFIX, 1password.com
   - DOMAIN-SUFFIX, agilebits.com
   # Emby
-  - DOMAIN, emby.plusmedia.site
   - DOMAIN, misty.ltd
   - DOMAIN-SUFFIX, poloemby.xyz
   - DOMAIN-SUFFIX, embyplus.club
   - DOMAIN-SUFFIX, jmsooo.com
-  - DOMAIN-SUFFIX, gfwemby.org
+  - DOMAIN-SUFFIX, embymv.tk
   
   - DOMAIN-KEYWORD, thinkorswim
   - DOMAIN-KEYWORD, clashroyale
