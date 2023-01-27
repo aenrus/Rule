@@ -24,6 +24,7 @@ DOMAIN-SUFFIX, 1password.com
 DOMAIN-SUFFIX, agilebits.com
 # Emby
 DOMAIN, misty.ltd
+DOMAIN, direct.nebula-emby.com
 DOMAIN-SUFFIX, poloemby.xyz
 DOMAIN-SUFFIX, embyplus.club
 DOMAIN-SUFFIX, jmsooo.com
