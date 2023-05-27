@@ -7,7 +7,6 @@ payload:
   - DOMAIN-KEYWORD, eastwestbank
   - DOMAIN-KEYWORD, velobank
   - DOMAIN-KEYWORD, helpshift
-  - DOMAIN-SUFFIX, ingest.sentry.io
   - DOMAIN-SUFFIX, demdex.net
   - DOMAIN-SUFFIX, everesttech.com
   # Interactive Brokers
