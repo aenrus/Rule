@@ -2,6 +2,7 @@
 HOST-KEYWORD, syncbits, Star
 HOST-KEYWORD, moneywiz, Star
 HOST-SUFFIX, wiz.money, Star
+HOST, logo.clearbit.com, Star
 # East West Bank
 HOST-KEYWORD, eastwestbank, Star
 HOST-KEYWORD, velobank, Star
