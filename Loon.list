@@ -22,13 +22,10 @@ DOMAIN-KEYWORD, soundhound
 DOMAIN-SUFFIX, 1password.com
 DOMAIN-SUFFIX, agilebits.com
 # Emby
-DOMAIN, misty.ltd
 DOMAIN, 789.123456.al
-DOMAIN, direct.nebula-emby.com
 DOMAIN, cc.ccemby.tk
-DOMAIN, emby.ednovas.org
 DOMAIN-SUFFIX, jmsooo.com
-DOMAIN-SUFFIX, embymv.tk
+DOMAIN-SUFFIX, peachmv.me
 
 DOMAIN-KEYWORD, thinkorswim
 DOMAIN-KEYWORD, tdameritrade
