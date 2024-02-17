@@ -27,7 +27,7 @@ HOST, 789.123456.al, Star
 HOST, cc.coemn.com, Star
 HOST-SUFFIX, jmsooo.com, Star
 HOST-SUFFIX, peachmv.me, Star
-
+# Finance
 HOST-KEYWORD, thinkorswim, Star
 HOST-KEYWORD, tdameritrade, Star
 HOST-KEYWORD, schwab, Star
@@ -43,3 +43,4 @@ HOST-SUFFIX, investing.com, Star
 HOST-SUFFIX, nike.com, Star
 HOST-SUFFIX, launchdarkly.com, Star
 HOST-SUFFIX, shazam.com, Star
+HOST-SUFFIX, 4d4y.com, Star
