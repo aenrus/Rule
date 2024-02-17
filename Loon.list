@@ -26,7 +26,7 @@ DOMAIN, 789.123456.al
 DOMAIN, cc.coemn.com
 DOMAIN-SUFFIX, jmsooo.com
 DOMAIN-SUFFIX, peachmv.me
-
+# Finance
 DOMAIN-KEYWORD, thinkorswim
 DOMAIN-KEYWORD, tdameritrade
 DOMAIN-KEYWORD, schwab
@@ -42,3 +42,4 @@ DOMAIN-SUFFIX, investing.com
 DOMAIN-SUFFIX, nike.com
 DOMAIN-SUFFIX, launchdarkly.com
 DOMAIN-SUFFIX, shazam.com
+DOMAIN-SUFFIX, 4d4y.com
