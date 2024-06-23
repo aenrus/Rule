@@ -1,8 +1,8 @@
 payload:
   # MoneyWiz
-  - DOMAIN-KEYWORD, syncbits
   - DOMAIN-KEYWORD, moneywiz
-  - DOMAIN-SUFFIX, wiz.money  
+  - DOMAIN-SUFFIX, wiz.money
+  - DOMAIN, logo.clearbit.com
   # East West Bank
   - DOMAIN-KEYWORD, eastwestbank
   - DOMAIN-KEYWORD, velobank
