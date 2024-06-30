@@ -29,6 +29,7 @@ payload:
   - DOMAIN-SUFFIX,jmsooo.com
   - DOMAIN-SUFFIX,peachmv.me
   - DOMAIN-SUFFIX,embymv.tk
+  - DOMAIN-SUFFIX,mefun.org
   # Finance
   - DOMAIN-KEYWORD,thinkorswim
   - DOMAIN-KEYWORD,tdameritrade
