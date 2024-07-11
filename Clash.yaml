@@ -31,7 +31,8 @@ payload:
   - DOMAIN,peachmv.me
   - DOMAIN,embymv.tk
   - DOMAIN,music.mefun.org
-  - IP-CIDR,152.53.67.239/8
+  - DOMAIN,misty.cx
+  - IP-CIDR,152.53.67.239/0
   # Finance
   - DOMAIN-KEYWORD,thinkorswim
   - DOMAIN-KEYWORD,tdameritrade
