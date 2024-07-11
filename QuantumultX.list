@@ -30,7 +30,7 @@ HOST, cf.jmsooo.com, Star
 HOST, peachmv.me, Star
 HOST, embymv.tk, Star
 HOST-SUFFIX, mefun.org, Star
-ip-cidr, 152.53.67.239/8, direct
+ip-cidr, 152.53.67.239/8, Star
 # Finance
 HOST-KEYWORD, thinkorswim, Star
 HOST-KEYWORD, tdameritrade, Star
