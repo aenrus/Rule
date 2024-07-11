@@ -26,9 +26,9 @@ HOST, 789.123456.al, Star
 HOST, cc.coemn.com, Star
 HOST, cdn.lyrebirdemby.com, Star
 HOST, tanhuatv.site, Star
-HOST-SUFFIX, jmsooo.com, Star
-HOST-SUFFIX, peachmv.me, Star
-HOST-SUFFIX, embymv.tk, Star
+HOST, cf.jmsooo.com, Star
+HOST, peachmv.me, Star
+HOST, embymv.tk, Star
 HOST-SUFFIX, mefun.org, Star
 # Finance
 HOST-KEYWORD, thinkorswim, Star
