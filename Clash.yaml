@@ -30,8 +30,8 @@ payload:
   - DOMAIN,cf.jmsooo.com
   - DOMAIN,peachmv.me
   - DOMAIN,embymv.tk
-  - DOMAIN-SUFFIX,mefun.org
-  - IP-CIDR, 152.53.67.239/8
+  - DOMAIN,music.mefun.org
+  - IP-CIDR,152.53.67.239/8
   # Finance
   - DOMAIN-KEYWORD,thinkorswim
   - DOMAIN-KEYWORD,tdameritrade
