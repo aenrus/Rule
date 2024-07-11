@@ -30,7 +30,8 @@ HOST, cf.jmsooo.com, Star
 HOST, peachmv.me, Star
 HOST, embymv.tk, Star
 HOST, music.mefun.org, Star
-# IP-CIDR, 152.53.67.239/8, Star
+HOST, misty.cx, Star
+HOST, IP-CIDR, 152.53.67.239/0, Star
 # Finance
 HOST-KEYWORD, thinkorswim, Star
 HOST-KEYWORD, tdameritrade, Star
