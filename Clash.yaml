@@ -27,9 +27,9 @@ payload:
   - DOMAIN,cc.coemn.com
   - DOMAIN,cdn.lyrebirdemby.com
   - DOMAIN,tanhuatv.site
-  - DOMAIN-SUFFIX,jmsooo.com
-  - DOMAIN-SUFFIX,peachmv.me
-  - DOMAIN-SUFFIX,embymv.tk
+  - DOMAIN,cf.jmsooo.com
+  - DOMAIN,peachmv.me
+  - DOMAIN,embymv.tk
   - DOMAIN-SUFFIX,mefun.org
   # Finance
   - DOMAIN-KEYWORD,thinkorswim
