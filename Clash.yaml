@@ -14,7 +14,7 @@ payload:
   - DOMAIN-KEYWORD,ibllc
   - DOMAIN-KEYWORD,ibkr
   # Futu
-  - DOMAIN-KEYWORD,fututrade
+  - DOMAIN-KEYWORD,futunn
   - DOMAIN-KEYWORD,moomoo
   # Soundhound
   - DOMAIN-KEYWORD,midomi
