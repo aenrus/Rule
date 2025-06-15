@@ -36,7 +36,6 @@ payload:
   - DOMAIN-KEYWORD,thinkorswim
   - DOMAIN-KEYWORD,tdameritrade
   - DOMAIN-KEYWORD,schwab
-  - DOMAIN-KEYWORD,hsbc
 
   - DOMAIN-SUFFIX,foreca.com
   - DOMAIN-SUFFIX,openweathermap.org
@@ -45,6 +44,5 @@ payload:
   - DOMAIN-SUFFIX,todayweather.co
   - DOMAIN-SUFFIX,weatherbit.io
   - DOMAIN-SUFFIX,investing.com
-  - DOMAIN-SUFFIX,nike.com
   - DOMAIN-SUFFIX,launchdarkly.com
   - DOMAIN-SUFFIX,4d4y.com
