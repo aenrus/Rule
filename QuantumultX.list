@@ -35,7 +35,6 @@ IP-CIDR, 152.53.67.239/32, Star
 HOST-KEYWORD, thinkorswim, Star
 HOST-KEYWORD, tdameritrade, Star
 HOST-KEYWORD, schwab, Star
-HOST-KEYWORD, hsbc, Star
 
 HOST-SUFFIX, foreca.com, Star
 HOST-SUFFIX, openweathermap.org, Star
