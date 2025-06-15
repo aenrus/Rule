@@ -35,7 +35,6 @@ IP-CIDR, 152.53.67.239/32
 DOMAIN-KEYWORD, thinkorswim
 DOMAIN-KEYWORD, tdameritrade
 DOMAIN-KEYWORD, schwab
-DOMAIN-KEYWORD, hsbc
 
 DOMAIN-SUFFIX, foreca.com
 DOMAIN-SUFFIX, openweathermap.org
@@ -44,6 +43,5 @@ DOMAIN-SUFFIX, met.no
 DOMAIN-SUFFIX, todayweather.co
 DOMAIN-SUFFIX, weatherbit.io
 DOMAIN-SUFFIX, investing.com
-DOMAIN-SUFFIX, nike.com
 DOMAIN-SUFFIX, launchdarkly.com
 DOMAIN-SUFFIX, 4d4y.com
