@@ -22,16 +22,12 @@ DOMAIN-KEYWORD, soundhound
 DOMAIN-SUFFIX, 1password.com
 DOMAIN-SUFFIX, agilebits.com
 # Emby
-DOMAIN, 789.123456.al
 DOMAIN, cc.coemn.com
 DOMAIN, cc.embycc.link
 DOMAIN, cdn.lyrebirdemby.com
-DOMAIN, tanhuatv.site
 DOMAIN, peachmv.me
 DOMAIN, embymv.link
-DOMAIN, emby.ld2j.top
 DOMAIN, cf.5msky.com
-IP-CIDR, 152.53.67.239/32
 # Finance
 DOMAIN-KEYWORD, thinkorswim
 DOMAIN-KEYWORD, tdameritrade
