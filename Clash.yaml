@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN,msmp.abchina.com.cn,REJECT
   # MoneyWiz
   - DOMAIN-KEYWORD,moneywiz
   - DOMAIN-SUFFIX,wiz.money
