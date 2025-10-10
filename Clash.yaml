@@ -30,6 +30,7 @@ payload:
   - DOMAIN,peachmv.me
   - DOMAIN,embymv.link
   - DOMAIN,cf.5msky.com
+  - DOMAIN, emby.heisi.org
   # Finance
   - DOMAIN-KEYWORD,thinkorswim
   - DOMAIN-KEYWORD,tdameritrade
