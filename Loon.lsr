@@ -25,11 +25,10 @@ DOMAIN-SUFFIX, agilebits.com
 # Emby
 DOMAIN, cc.coemn.com
 DOMAIN, cc.embycc.link
-DOMAIN, cdn.lyrebirdemby.com
 DOMAIN, peachmv.me
-DOMAIN, embymv.link
-DOMAIN, cf.5msky.com
+DOMAIN, embymv.lin
 DOMAIN, emby.heisi.org
+DOMAIN-SUFFIX, okemby.org
 # Finance
 DOMAIN-KEYWORD, thinkorswim
 DOMAIN-KEYWORD, tdameritrade
