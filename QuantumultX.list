@@ -25,11 +25,10 @@ HOST-SUFFIX, agilebits.com, Star
 # Emby
 HOST, cc.coemn.com, Star
 HOST, cc.embycc.link, Star
-HOST, cdn.lyrebirdemby.com, Star
 HOST, peachmv.me, Star
 HOST, embymv.link, Star
-HOST, cf.5msky.com, Star
 HOST, emby.heisi.org, Star
+HOST-SUFFIX, okemby.org, Star
 # Finance
 HOST-KEYWORD, thinkorswim, Star
 HOST-KEYWORD, tdameritrade, Star
