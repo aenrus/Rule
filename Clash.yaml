@@ -25,7 +25,6 @@ payload:
   # Emby
   - DOMAIN,cc.coemn.com
   - DOMAIN,cc.mnyvc.xyz
-  - DOMAIN,cc.embycc.link
   - DOMAIN,peachmv.me
   - DOMAIN,embymv.link
   - DOMAIN,emby.heisi.org
