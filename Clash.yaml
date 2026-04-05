@@ -34,7 +34,6 @@ payload:
   - DOMAIN-KEYWORD,tdameritrade
   - DOMAIN-KEYWORD,schwab
 
-  - DOMAIN-SUFFIX,foreca.com
   - DOMAIN-SUFFIX,openweathermap.org
   - DOMAIN-SUFFIX,darksky.net
   - DOMAIN-SUFFIX,met.no
