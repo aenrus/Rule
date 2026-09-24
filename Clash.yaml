@@ -32,6 +32,7 @@ payload:
   - DOMAIN,emby.yusen.us.ci
   - DOMAIN,embya.yusen.cyou
   - DOMAIN,emby.yusen.cc.cd
+  - DOMAIN,cf.sfcj.org
   - DOMAIN-SUFFIX,okemby.org
   # Finance
   - DOMAIN-KEYWORD,thinkorswim
