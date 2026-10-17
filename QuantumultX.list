@@ -1,4 +1,5 @@
 HOST, msmp.abchina.com.cn, reject
+DOMAIN-KEYWORD, ybzj, Star
 # MoneyWiz
 HOST-KEYWORD, moneywiz, Star
 HOST-SUFFIX, wiz.money, Star
