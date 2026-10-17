@@ -1,4 +1,5 @@
 DOMAIN, msmp.abchina.com.cn, REJECT
+DOMAIN-KEYWORD, ybzj
 # MoneyWiz
 DOMAIN-KEYWORD, moneywiz
 DOMAIN-SUFFIX, wiz.money
